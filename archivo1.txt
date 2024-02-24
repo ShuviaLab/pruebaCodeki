@@ -2,3 +2,5 @@ Perro
 gato
 vaca
 gallina
+tero
+pato
