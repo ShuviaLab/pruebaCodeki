@@ -4,3 +4,5 @@ vaca
 gallina
 tero
 pato
+conejo
+chancho
